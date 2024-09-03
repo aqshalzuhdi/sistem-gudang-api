@@ -28,6 +28,7 @@ Clone it
 ```bash
     git clone https://github.com/aqshalzuhdi/sistem-gudang-api.git
     cd sistem-gudang-api
+    composer install
 ```
 
 Install with docker
@@ -66,6 +67,7 @@ This command can create user, status, and transaction category
 User detail: \
 Email: aqshal@asal.my.id \
 Password: 123456
+
 ## Deployment
 
 To deploy this project run
@@ -75,17 +77,15 @@ To deploy this project run
   php artisan serve
 ```
 
-
 ## Documentation
 
-[Documentation](https://linktodocumentation)
-
+[Documentation](https://documenter.getpostman.com/view/4749256/2sAXjM5s5f)
 
 ## Tech Stack
 
-**Framework:** Laravel 11
-
+**Framework:** Laravel 11 \
 **RDBMS:** MySQL / MariaDB
+
 ## Authors
 
 - [@aqshalzuhdi](https://www.github.com/aqshalzuhdi)
