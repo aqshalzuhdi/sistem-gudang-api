@@ -57,7 +57,7 @@ Migrate all table to database
     php artisan migrate
 ```
 
-Create new resource using seeder
+Create new resource using seeder \
 This command can create user, status, and transaction category
 
 ```bash
