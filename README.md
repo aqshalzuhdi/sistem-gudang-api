@@ -33,8 +33,7 @@ Clone it
 Install with docker
 
 ```bash
-    git clone https://github.com/aqshalzuhdi/sistem-gudang-api.git
-    cd sistem-gudang-api
+    Next update!
 ```
 
 Set-up your .env files
