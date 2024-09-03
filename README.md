@@ -1,7 +1,7 @@
 
 # Sistem Gudang Rest API
 
-API ini digunakan untuk me-manage gudang dengan memanfaatkan laravel 11.
+**Sistem Gudang** is a management application designed to streamline and optimize warehouse operations with advanced features. The application includes modules for managing warehouse information, such as location and structural details, as well as supplier data including contact information and company details. With its product category feature, users can organize products by category for easier searchability. The system also allows for efficient product management, including the addition, editing, and deletion of products. Other key features include managing products with unique SKUs and serial numbers, and monitoring product stock to ensure availability. Additionally, the application provides capabilities for managing inventory with attention to expiration dates and product warranty periods, ensuring optimal quality and compliance in every aspect of warehouse operations.
 
 
 ## Entity Relationship Diagram
@@ -17,7 +17,7 @@ API ini digunakan untuk me-manage gudang dengan memanfaatkan laravel 11.
 - Manage Product
 - Product available with SKU and Serial Number
 - Inventory to make product stock
-- Inventory available with expiration_date and warranty_period
+- Inventory available with expiration_date and warranty_period \
 etc.
 
 
@@ -26,8 +26,8 @@ etc.
 Clone it
 
 ```bash
-  git clone https://github.com/aqshalzuhdi/sistem-gudang-api.git
-  cd sistem-gudang-api
+    git clone https://github.com/aqshalzuhdi/sistem-gudang-api.git
+    cd sistem-gudang-api
 ```
 
 Install with docker
