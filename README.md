@@ -79,7 +79,7 @@ To deploy this project run
 
 ## Documentation
 
-[Documentation Postman](https://documenter.getpostman.com/view/4749256/2sAXjM5s5f) \n
+[Documentation Postman](https://documenter.getpostman.com/view/4749256/2sAXjM5s5f) \
 [API URL](https://sistem-gudang.asal.my.id/api)
 
 ## Tech Stack
